@@ -84,7 +84,7 @@ var locations = new Bloodhound({
             { val: 'Covenant Clinic (Waterloo - 3 E)', lat: '42.464021', lng: '-92.345083' },
             { val: 'Covenant Clinic  (Waterloo - Ste 100)', lat: '42.464021', lng: '-92.345083' },
             { val: 'Covenant Clinic (Evansdale)', lat: '42.477418', lng: '-92.289173' },
-            { val: 'Covenant Midwives & Women's Health Center (Waterloo)', lat: '42.458079', lng: '-92.34644' },
+            { val: 'Covenant Midwives & Women\'s Health Center (Waterloo)', lat: '42.458079', lng: '-92.34644' },
             { val: 'Covenant Home Medical (Waterloo)', lat: '42.457522', lng: '-92.348585' },
             { val: 'Covenant Clinic (Dysart)', lat: '42.170706', lng: '-92.304289' },
             { val: 'Covenant Clinic (Reinbeck)', lat: '42.32455', lng: '-92.59921' },
