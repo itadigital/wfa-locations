@@ -19,6 +19,5 @@ if (isset($decoded->response->status) && $decoded->response->status == 'ERROR') 
     die('error occured: ' . $decoded->response->errormessage);
 }
 
-print $decoded;
 echo json_encode($decoded);
 ?>
