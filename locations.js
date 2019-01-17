@@ -74,7 +74,7 @@ var locations = new Bloodhound({
             { val: 'Covenant Clinic - Podiatry (Waterloo)', lat: '42.460266', lng: '-92.344332' },
             { val: 'Covenant Clinic - Pediatrics (Waterloo)', lat: '42.460266', lng: '-92.344332' },
             { val: 'Covenant Professional Office Building  (Waterloo)', lat: '42.460266', lng: '-92.344332' },
-            { val: 'Covenant Outpatient & Women's Center (Waterloo)', lat: '42.460266', lng: '-92.344332' },
+            { val: 'Covenant Outpatient & Women\'s Center (Waterloo)', lat: '42.460266', lng: '-92.344332' },
             { val: 'Covenant Clinic - Psychiatry (Waterloo)', lat: '42.459138', lng: '-92.344337' },
             { val: 'Covenant Clinic - Psychiatry (Cedar Falls)', lat: '42.50485', lng: '-92.412872' },
             { val: 'Covenant Clinic - Gladbrook (Gladbrook)', lat: '42.187846', lng: '-92.715318' },
