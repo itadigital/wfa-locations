@@ -2,7 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 header('Content-Type: application/json');
 
-$service_url = 'https://api.webflow.com/collections/5cf14e3321b2ce688ee7ee60/items?api_version=1.0.0&access_token=a6bb5ed5a1d1a88a0ef1a37be52f58c12892c489981aff5f8db49d8a37cf3e07';
+$service_url = 'https://api.webflow.com/collections/5cf14e3321b2ce688ee7ee60/items?api_version=1.0.0&access_token=96d472918b3151ce555ceb974da4bf4091f0c5f51ec3e6d8e459232f82972d7b';
 $curl = curl_init($service_url);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 $curl_response = curl_exec($curl);
